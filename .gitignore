@@ -1,0 +1,4 @@
+venv
+.dea
+*.pyc
+__pycashe__
